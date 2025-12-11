@@ -20,10 +20,6 @@ import 'dart:io';
 
        }
         double per=total/5;
-          
-    
-       
-    
     Map<String,dynamic> student={
       "name":name,
          "roll":roll,
